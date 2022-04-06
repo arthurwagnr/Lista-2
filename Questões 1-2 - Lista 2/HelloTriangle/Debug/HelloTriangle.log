@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\USUARIO\Desktop\Faculdade 2022-01\Processamento Gráfico\PG2022-1-main\Questões 1-2 - Lista 2\HelloTriangle\Source.cpp(24,10): fatal error C1083: Não é possível abrir arquivo incluir: 'glm/gtc/type_ptr.hpp': No such file or directory

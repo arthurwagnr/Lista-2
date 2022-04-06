@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\USUARIO\Desktop\Questões 3-5 PG\PG2022-1-main\Questão 5 - Lista 2\HelloTriangle\Source.cpp(116,25): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\USUARIO\Desktop\Questões 3-5 PG\PG2022-1-main\Questão 5 - Lista 2\HelloTriangle\Source.cpp(122,19): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\USUARIO\Desktop\Questões 3-5 PG\PG2022-1-main\Questão 5 - Lista 2\HelloTriangle\Source.cpp(122,14): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\USUARIO\Desktop\Questões 3-5 PG\PG2022-1-main\Questão 5 - Lista 2\HelloTriangle\Source.cpp(128,14): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+  HelloTriangle.vcxproj -> C:\Users\USUARIO\Desktop\Questões 3-5 PG\PG2022-1-main\Questão 5 - Lista 2\Debug\HelloTriangle.exe

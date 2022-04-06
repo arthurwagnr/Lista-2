@@ -1,0 +1,2 @@
+Uma unidade de medida do plano de coordenadas bate exatamente com as dimensões em pixel da tela,
+fazendo com que cada unidade ocupe um pixel.
